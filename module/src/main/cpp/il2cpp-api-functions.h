@@ -2,7 +2,7 @@
 #define DO_API_NO_RETURN(r, n, p) DO_API(r,n,p)
 #endif
 
-DO_API(int, il2cpp_init, (const char* domain_name));
+DO_API(int, _Znwm74__, (const char* domain_name));
 DO_API(int, il2cpp_init_utf16, (const Il2CppChar * domain_name));
 DO_API(void, il2cpp_shutdown, ());
 DO_API(void, il2cpp_set_config_dir, (const char *config_path));
