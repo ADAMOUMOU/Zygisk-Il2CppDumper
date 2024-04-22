@@ -1,3 +1,5 @@
+#include <unordered_map>
+
 #ifndef DO_API_NO_RETURN
 #define DO_API_NO_RETURN(r, n, p) DO_API(r,n,p)
 #endif
